@@ -1,0 +1,30 @@
+BS
+Zayam Tariq
+
+Game SetUp: 
+	1. Play spin the bottle to determine who goes first
+	2. The person who goes first will deal the cards evenly to all the players
+	3. The person who goes first plays ANY card face up, allowing everyone to know what card they played 
+
+Rules: 
+	4. The person that comes next in a counter-clockwise fashion plays the card that comes numerically after the card the first person played, and places the card on top of the first players card but keeps the card face down this time around. They will say what card they were supposed to put down, and how many cards they put down If they did not have the needed card, they would bluff about having the card
+	5.    
+		5a. Scenario 1: the second player (from step 4) actually did have the right card, and places it down
+			5aa. If someone calls BS on the second player, the person that CALLED BS takes all the cards in the pile. 
+			5ab. Nobody calls BS, and the GAME CONTINUES TO THE 3RD PLAYER.  
+		5b. Scenario 2: the second player did not have the right card
+			5ba. If someone calls BS on the second player, the person that WAS CALLED BS UPON takes all the cards in the pile.
+			5bb. Nobody calls BS, and the GAME CONTINUES TO THE 3RD PLAYER. 
+	6. the person that comes next in a counter-clockwise fashion will place the card that comes numerically after the card that came before them,
+	and places the card on top of the card from the previous turn face down. If they did not have the needed card they would bluff about having the card.
+	7. 
+		7a. Scenario 1: The player actually did have the right card, and places it down
+			7aa. If someone calls BS on the player that put down the card, the person that CALLED BS takes all the cards in the pile
+			7ab. Nobody calls BS, and the game continues to the next player
+		7b. 
+			7ba. If someone calls BS on the player that puts down the card, the player who just PUT DOWN THE CARD will take all the cards in the pile. 
+			7bb. Nobody calls BS, and the game continues to the next player. 
+	8.  Continue steps 6-7 until a player runs out of cards. In that case, the player that runs out of cards win. 
+	        
+
+	 
