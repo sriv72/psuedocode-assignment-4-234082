@@ -9,28 +9,29 @@ The person who goes first plays ANY card face up, allowing everyone to know what
 
 Instructions:
  
-while (if there isn't a player out of cards) {
+while (there isn't a player out of cards) {
 
 the person that comes next in a counter-clockwise fashion will place the card that comes numerically after the card that came before them, and places the card on top of the card from the previous turn face down. They will say what card they were SUPPOSED TO put down and how many. If the player does not have the needed card, they pretend like they do and bluff about it. 
  
 
 If the player actually did have the right card, and places it down; 
-then someone calls BS on the player as the player puts down his card, flips over the card to verify, and the person that CALLED BS takes all the cards in the pile.
+  someone calls BS on the player as the player puts down his card
+  flips over the card to verify
+  the person that CALLED BS takes all the cards in the pile.
 else if Nobody calls BS on the player as the player puts down his card;
-then the game continues to the next player.
+  the game continues to the next player.
 
 If the player didn't have the right card, and places it down; 
-then someone calls BS on the player that puts down the card, flips over the card(s) to verify, and the player who just PUT DOWN THE CARD will take all the cards in the pile. 
+  someone calls BS on the player that puts down the card
+  flips over the card(s) to verify
+  the player who just PUT DOWN THE CARD will take all the cards in the pile. 
 else if nobody calls BS;
-then the game continues to the next player. 
+  then the game continues to the next player. 
 
 while (if one player runs out of cards before everyone else) {
 
-a player will eventually run out of cards before everyone else
-
-if a player runs out of cards before everyone else;
 that player wins, 
  
-}
+ }
 } 
 
